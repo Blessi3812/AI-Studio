@@ -1,0 +1,13 @@
+﻿customtkinter
+edge-tts
+opencv-python
+numpy
+pillow
+pypdf
+python-docx
+openpyxl
+requests
+scipy
+sounddevice
+SpeechRecognition
+ddgs
